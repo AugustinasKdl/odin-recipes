@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: #D3D3D3;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+li {
+    display: inline-block;
+    font-size: 24px;
+    padding: 50px;
+}
+
+a {
+    color: black;
+}
+a:link{
+    text-decoration: none;
+}
+a.list:hover{
+    text-decoration: underline;
+}
+
+img{
+    display: block;
+    height: 250px;
+    width: 250px;
+    padding: 25px;
+}
